@@ -1,8 +1,8 @@
-# react-todo
-React To Do
+# React Todo App
+## Quickstart
 
 Download and run:
 
-```yarn install```
+1.`yarn install`
 
-```yarn start ```
+2.`yarn start `
