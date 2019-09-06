@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+}
+
+.done {
+  color: green;
+  text-decoration: line-through;
+}
+
+.items {
+  margin: 24px 0;
+}
+
+.item {
+  padding: 12px 0;
+}
+
+.delete {
+  margin-left: 12px;
+  border: none;
+  color: #444;
+  outline: none;
+  background: none;
+}
